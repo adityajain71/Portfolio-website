@@ -1,7 +1,7 @@
 'use client';
 
 import { motion, useInView } from 'framer-motion';
-import { useRef, useState } from 'react';
+import { useRef } from 'react';
 
 const techStack = [
   { name: 'Python', category: 'Core Language', usage: 'ML/AI development & data analysis' },

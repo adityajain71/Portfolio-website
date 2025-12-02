@@ -2,12 +2,10 @@
 
 import { motion, useInView } from 'framer-motion';
 import { useRef, useState } from 'react';
-import Image from 'next/image';
 
 interface ProjectCardProps {
   title: string;
   description: string;
-  image: string;
   tags: string[];
   github: string;
   demo?: string | null;
@@ -17,7 +15,6 @@ interface ProjectCardProps {
 export default function ProjectCard({
   title,
   description,
-  image,
   tags,
   github,
   demo,
