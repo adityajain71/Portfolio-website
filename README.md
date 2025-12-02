@@ -1,6 +1,6 @@
-# Aditya's Portfolio
+# Aditya Jain - AI & ML Engineer Portfolio
 
-A premium personal portfolio website for an AI & Machine Learning Engineer.
+A premium personal portfolio website showcasing AI & Machine Learning projects with a Netflix-style horizontal carousel.
 
 ## Tech Stack
 
